@@ -1,2 +1,2 @@
-# interview-challenge-completed
+# interview-challenge
 Created with CodeSandbox

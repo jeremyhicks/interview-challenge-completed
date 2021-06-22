@@ -1,0 +1,3779 @@
+{
+  "workManifestByLoanId": {
+    "reviews": {
+      "totalCount": 180,
+      "nodes": [
+        {
+          "id": "0048c73a-37d5-4f53-9423-995dbc09560c",
+          "code": "NeedToCompleteSettlementVerification",
+          "description": "Need To Complete Settlement Verification",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "01f2b5d5-8134-4ef7-80f0-491f43cb5d7d",
+          "code": "HoldonFundingReview",
+          "description": "Hold on Funding Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "0213274e-5ae8-45f2-9292-e99fb9724e3e",
+          "code": "AutoConditionsDelCOND101",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "03e8ca82-3976-44e9-85fe-0ca59688f676",
+          "code": "AutoConditionsAddAGEAPP2",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "04cf9b0b-6e56-40b6-9ec8-1f1af7a55743",
+          "code": "CompleteLoanPackageInvisible",
+          "description": "CompleteLoanPackageInvisible",
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:38.517647+00:00",
+          "updatedBy": "2362f961-c8b2-4027-b145-fd6542e04963",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "05114b4a-a8cc-4393-b6bd-e4ee92542d4f",
+          "code": "ConditionEscUWReview",
+          "description": "Condition Esc UW Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "06af1670-691c-41a6-9f20-dc7fbb597ecd",
+          "code": "CollateralEscMgrReview",
+          "description": "Collateral Esc Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "0bace7ce-6346-4f1b-abc7-79cd3f500364",
+          "code": "CreditRiskOCRPrincipalReduction",
+          "description": "Credit Risk OCR Principal Reduction",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "0bcfea3b-1531-467a-8deb-344470455871",
+          "code": "EPPPurchaseReview",
+          "description": "EPP Purchase Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "0e7b0d6c-4e29-45dd-bd3f-c1c978be7fa0",
+          "code": "ClientOpsReview",
+          "description": "Client Ops Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "0f337b3b-8438-42c3-b2a6-2be3e37f9116",
+          "code": "FullPTR",
+          "description": "Full PTR",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "0fd66caf-c709-4c45-83cb-ec1e202a1b89",
+          "code": "MERSData",
+          "description": "MERSData",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "10839e6b-ab76-4067-ba8e-e8c9aa952480",
+          "code": "HomestyleReview",
+          "description": "Homestyle Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "110ea202-b1bf-422f-b561-1dac3aac3167",
+          "code": "DBScheduler",
+          "description": "DBScheduler",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "12459394-668a-4c98-81fa-2decd265a419",
+          "code": "ERReceiptReview",
+          "description": "ER Receipt Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": "2021-02-17T21:59:53.701088+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 19,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": [
+              {
+                "tasks": {
+                  "nodes": [
+                    {
+                      "id": "1a21fc7f-bb97-4803-b6aa-073ae83849c0",
+                      "code": "NBF3",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "2724d73f-a844-41a6-abb9-d9b611fed94c",
+                      "code": "NBF15",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "2b066e5d-4d7d-4f80-b470-fcd06488fd49",
+                      "code": "NBF19",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "2e8108c4-e842-4b0e-bfca-8542795825bd",
+                      "code": "NBF10",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "378fa8f7-867d-45ea-955e-c26ecd1d14a8",
+                      "code": "NBF17",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "3a19ad1c-5e45-4401-a251-4787aff1f45c",
+                      "code": "NBF1",
+                      "description": null,
+                      "disposition": "ISSUE",
+                      "dispositionAt": "2021-04-06T20:08:34.768858+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-04-06T20:08:34.768858+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "3b32db3a-d8a4-4950-ba7b-96a2a7cfb12c",
+                      "code": "NBF16",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "4230f92b-8874-49c4-a8e5-e1e72b2b6d04",
+                      "code": "NBF18",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "5bbb3fcb-a308-4f8e-be72-d1476c3cc0fb",
+                      "code": "NBF9",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "6374dd7d-e6ba-4152-a840-8d25cfdffe66",
+                      "code": "NBF7",
+                      "description": null,
+                      "disposition": "ISSUE",
+                      "dispositionAt": "2021-04-06T19:52:51.747834+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-04-06T19:52:51.747834+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "7553e90d-398a-4158-ab10-7149d9394b16",
+                      "code": "NBF13",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "998fd488-87fd-4cbf-a876-ab432209fa6f",
+                      "code": "NBF8",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "af9baf75-7f71-4a0e-a7b4-af3b14d8a60e",
+                      "code": "NBF23",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "b36f00f1-bd20-490c-a903-aabb83a0447e",
+                      "code": "NBF4",
+                      "description": null,
+                      "disposition": "ISSUE",
+                      "dispositionAt": "2021-04-06T20:08:56.081987+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-04-06T20:08:56.081987+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "b582dde4-afd0-4852-81dd-97f7193e9728",
+                      "code": "NBF20",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "cdc11b93-92f7-4c0d-bd3c-e8502d26a50f",
+                      "code": "NBF2",
+                      "description": null,
+                      "disposition": "ISSUE",
+                      "dispositionAt": "2021-04-06T20:26:23.075052+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-04-06T20:26:23.075052+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "f4bc3cff-00dd-422a-ba3c-d75d703f456c",
+                      "code": "NBF22",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "f58d1511-9592-4725-96e2-29e95bec8338",
+                      "code": "NBF11",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "ff0e851c-ba92-47b2-be0a-ce075ea31e31",
+                      "code": "NBF21",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    }
+                  ]
+                },
+                "listTemplate": {
+                  "id": "5435b59a-f995-4732-83a4-6a54b395d599",
+                  "requiredLogicComments": "ER Basefile Documents",
+                  "code": "ERBASE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "125492b4-8a27-4e39-bb97-68230f03b197",
+          "code": "AutoIncome",
+          "description": "Auto Income",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "1285f5bb-4966-43dd-bb14-2a938a08eda3",
+          "code": "VAFundingFeeReview",
+          "description": "VA Funding Fee Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "151c33e2-db83-4d1f-a7db-989d6c964b0d",
+          "code": "ERUnderwritingEscMgrReview",
+          "description": "ER Underwriting Esc Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "18d897c0-a51b-4ab0-b941-7e419b5c87fd",
+          "code": "Equifax",
+          "description": "Equifax",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "19e1a763-f90c-4f6d-bf57-96f401f9b081",
+          "code": "AutoConditionsAddCOND90",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "1ab974dd-18af-45f5-8860-bc4d585c64b0",
+          "code": "ERSelf-EmployedReview",
+          "description": "ER Self-Employed Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "1b012974-be8b-4772-9625-2ee49dc1f90f",
+          "code": "FHAMIPReview",
+          "description": "FHA MIP Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "1bbde742-ea0e-45d0-a1c3-9562bf4ce0d8",
+          "code": "CondoReview",
+          "description": "Condo Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "1be36e18-62ae-4b41-aed1-30fa32aac6c3",
+          "code": "FetchAPOR",
+          "description": "Fetch APOR",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "1cf46886-931c-4e55-9d58-4115c6e208f5",
+          "code": "ConditionEscReview",
+          "description": "Condition Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "282296b9-5cf5-4cc7-b83f-92fb090e941c",
+          "code": "PrintDocsSellerOperationsFundingAdvice",
+          "description": "Print Docs Seller Operations Funding Advice",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "2836474b-ac81-4c56-bd08-041e698d0656",
+          "code": "FNMAAppraisal",
+          "description": "FNMA Appraisal",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "28caed37-63eb-431b-9842-389735e298a7",
+          "code": "AutoConditionsAddCOND999",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "29755b81-48c1-46dc-9d3f-8fec94d8e28a",
+          "code": "AutoConditionsAddNDEL1",
+          "description": null,
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T22:00:01.759023+00:00",
+          "updatedBy": "a7737941-cdb3-4733-9aae-673cd4705f1e",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "2b6d4dd7-e7aa-413f-a736-58bbf611f3cb",
+          "code": "DBNoteRegister",
+          "description": "DBNoteRegister",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "2b78e132-b3b1-4866-9511-462322052d7a",
+          "code": "CreditRiskOCRVOEandWorkNumber",
+          "description": "Credit Risk OCR VOE and Work Number",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "2cfb95aa-4842-4627-a53d-93318068e95b",
+          "code": "DocsforPostPurchaseConditionsInvisible",
+          "description": "DocsforPostPurchaseConditionsInvisible",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "2fb47508-ba94-4fe0-8c1a-f9572d0aef14",
+          "code": "AutoConditionsAddCOND91",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3006e1bd-5165-4304-9097-a3dd150a3c8b",
+          "code": "AutoConditionsAddCOND92",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "30a4713e-4fd5-4e60-ae62-8a41306ad2c7",
+          "code": "AutoConditionsAddNOT05",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "30ff9e1b-f4bf-43d5-90f8-7e89bcf09143",
+          "code": "CaseQuery",
+          "description": "CaseQuery",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "32a9bd85-df42-414a-b4b5-639df7b44523",
+          "code": "EmailNotificationERApproved",
+          "description": "EmailNotificationERApproved",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "35f874ee-34c8-40da-8f77-b564cdec805c",
+          "code": "EligibilityReview",
+          "description": "Eligibility Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": "2021-02-16T21:59:53.701088+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 27,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": [
+              {
+                "tasks": {
+                  "nodes": [
+                    {
+                      "id": "0e1973c4-8e79-4c8e-8cef-7cd84074db05",
+                      "code": "NGDL11",
+                      "description": null,
+                      "disposition": "ISSUE",
+                      "dispositionAt": "2021-04-06T20:24:50.866565+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-04-06T20:24:50.866565+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "129f8bd5-f902-4e14-9346-1b75879f3555",
+                      "code": "NFHA1",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "1549fc87-3c24-4569-8e6c-ed81dccc1a53",
+                      "code": "NGDL44",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "19d3f15b-c618-4f63-95c8-ad376a0ef8c3",
+                      "code": "NGDL91",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "19e8d403-cdbf-4ef1-bc6e-cd9ec36bb906",
+                      "code": "NGDL42",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "268df9e3-9cb4-4433-bf4c-4839423168b9",
+                      "code": "NAUS10",
+                      "description": "Non-Del AUS-8",
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "26b288ee-8404-4f1f-9363-d0aefae7fe7a",
+                      "code": "NJMB4",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "26dda951-5a8e-4129-a850-b3af440e98b9",
+                      "code": "NJMB2",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "2aea0ff3-6418-4290-94ea-3721115b397e",
+                      "code": "NJMB1",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "2be9de3d-003c-4ec4-843e-89b3b9376a4c",
+                      "code": "NGDL56",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "2fc94f0b-eba7-4190-8218-3b7b24b626c7",
+                      "code": "NJMB5",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "3625abff-62c1-40ce-ab4c-b3afcd8917d9",
+                      "code": "NFHA2",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "43f27d64-4b02-409e-8f71-f2e9b45ae5b1",
+                      "code": "NGDL87",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "55dc6a04-f7dd-409f-908c-82f31498bf6a",
+                      "code": "NJMB8",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "6a932743-69d0-4fbe-bfd1-4d8ea0d88ff2",
+                      "code": "NJMB10",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "72062aac-4b12-42fc-8d96-2aae0b38bba9",
+                      "code": "NGDL86",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "7eadadc7-be88-4d5a-abff-10a017e7079d",
+                      "code": "NGDL40",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "90d3dfb8-42fc-4d77-beaf-082e5b6a3189",
+                      "code": "NGDL55",
+                      "description": null,
+                      "disposition": "ISSUE",
+                      "dispositionAt": "2021-04-07T15:55:52.531331+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-04-07T15:55:52.531331+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "99821dff-fe7e-43e2-82b3-643470ec517f",
+                      "code": "NFHA4",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "9dc2f23f-5b1a-4019-b3a9-c1a5878fee6d",
+                      "code": "NJMB9",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "9eed446b-c8bd-4c62-a398-6e9ad54e4a03",
+                      "code": "NFHA3",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "a796ab13-071b-49aa-a4a3-0b59b7e66dac",
+                      "code": "NGDL41",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": "2021-03-22T20:01:28.381944+00:00",
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": "2021-03-22T20:01:29.125567+00:00",
+                      "isReady": true,
+                      "isRequired": true
+                    },
+                    {
+                      "id": "ad3c8696-c282-41cb-bc10-b948e91fa115",
+                      "code": "NJMB7",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "d9949196-708e-4a13-9caa-a42f65c9bd05",
+                      "code": "NJMB11",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "db34ba0c-92fd-4d75-ac91-88c19c5140a2",
+                      "code": "NJMB6",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "e06f496e-0c12-4c27-a5ba-d4844adfffb5",
+                      "code": "NJMB3",
+                      "description": null,
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    },
+                    {
+                      "id": "f4e04088-2b10-4913-a9cc-cc8221209113",
+                      "code": "NAUS5",
+                      "description": "Non-Del AUS-9",
+                      "disposition": null,
+                      "dispositionAt": null,
+                      "createdAt": "2021-02-17T21:59:31.199852+00:00",
+                      "updatedAt": null,
+                      "isReady": false,
+                      "isRequired": false
+                    }
+                  ]
+                },
+                "listTemplate": {
+                  "id": "e5324861-7ec0-4b9a-acb0-d00b92325415",
+                  "requiredLogicComments": null,
+                  "code": "ELIGREV"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "36ec2262-b438-4b4f-936f-ea6a7b297a11",
+          "code": "UnderwritingReview",
+          "description": "Underwriting Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "38656859-1623-4b70-8a67-b3c27fc79416",
+          "code": "AutoConditionsAddPAYHST45",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "38c376a9-8dd3-4c58-8612-7af2deeb47bc",
+          "code": "AutoConditionsAddNDEMND1",
+          "description": null,
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T22:00:02.786675+00:00",
+          "updatedBy": "a7737941-cdb3-4733-9aae-673cd4705f1e",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "38e6e022-7e37-449d-bf1e-e07bb13701e9",
+          "code": "AutoConditionsAddNTRANS1",
+          "description": null,
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T22:00:03.803687+00:00",
+          "updatedBy": "a7737941-cdb3-4733-9aae-673cd4705f1e",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3a60dead-8fb2-4238-b0f5-0117593551e8",
+          "code": "LockDeskReview",
+          "description": "Lock Desk Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3b50555e-26cd-464f-a7b4-fd3ce39c5958",
+          "code": "DUMessages",
+          "description": "DUMessages",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3c9e6855-4e58-441b-9a83-4dcff5f967ec",
+          "code": "DocIndexingReview",
+          "description": "Doc Indexing Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3e0106a8-a753-4538-a9e5-837cd531ac8e",
+          "code": "AutoConditionsDelSEASON1",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3e317a37-6179-41c5-adfb-b20e85eb2f87",
+          "code": "AutoConditionsAddAGEAPP",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "3ed6e834-9dbb-4f37-8769-7b7bf632d5e1",
+          "code": "USDAOTCReview",
+          "description": "USDA OTC Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4092dfc5-225e-4dac-a673-602f2e2471e0",
+          "code": "TUData",
+          "description": "TUData",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "414b1f9e-bffc-4b54-8700-f9cfa8444d28",
+          "code": "EmailNotificationPendingConditions",
+          "description": "EmailNotificationPendingConditions",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "460ffdaf-4796-4a4e-bc2c-de5fd774e38c",
+          "code": "JumboComplianceReview",
+          "description": "Jumbo Compliance Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "47db5ed7-1675-47bd-b5e9-de5595544b3a",
+          "code": "CreditRiskOCRMatch",
+          "description": "Credit Risk OCR Match",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4c807010-5fa4-4c67-b6ff-0943027e9b10",
+          "code": "AutoConditionsDelPAYHST75",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4cc11f2a-9079-4195-94d6-5d0efaa993ea",
+          "code": "AutoConditionsAddNDEL2",
+          "description": null,
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T22:00:05.747472+00:00",
+          "updatedBy": "a7737941-cdb3-4733-9aae-673cd4705f1e",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4db8826a-8968-4512-94a5-f85e8c7cfc69",
+          "code": "DocsforPendingConditionsInvisible",
+          "description": "DocsforPendingConditionsInvisible",
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:35.908273+00:00",
+          "updatedBy": "2362f961-c8b2-4027-b145-fd6542e04963",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4f13d0ec-0c0c-4357-97ca-a3cba646e9ee",
+          "code": "ManualAppraisalOutsource",
+          "description": "Manual Appraisal Outsource",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4f39960d-130c-4406-a6bf-5b6640dd51d4",
+          "code": "VACountyLoanLimit",
+          "description": "VA County Loan Limit",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "4fa10b83-f97f-42fb-bb11-c3197a64d580",
+          "code": "FMELReview",
+          "description": "FMEL Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "51158071-4c6f-418d-b6fd-bc58e69afa14",
+          "code": "ReceiptReview",
+          "description": "Receipt Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "51c6abda-3884-4f65-a6a7-72b2b2b3e369",
+          "code": "INGEscReview",
+          "description": "ING Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5246f1a6-a0cc-4eef-952b-b779937a092a",
+          "code": "PostPurchaseConditionReview",
+          "description": "Post Purchase Condition Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "53851a06-0cd2-472d-a670-1ea1ae839893",
+          "code": "PrintDocsVA266393",
+          "description": "Print Docs VA 26-6393",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "54d0a9d1-5f82-4009-a85b-88c5d2dda11d",
+          "code": "ERAssetReview",
+          "description": "ER Asset Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "580b92b7-2009-4f3a-98f7-d76bf19a7371",
+          "code": "RepriceReview",
+          "description": "Reprice Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5871e4a3-e497-439c-8036-b7a978c01449",
+          "code": "PrintDocsStatementOfDenial",
+          "description": "PrintDocsStatementOfDenial",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "58c5e612-c1a2-46c8-b4f8-fd7ea61423c2",
+          "code": "EmailNotificationERUnsatisfiedConditions",
+          "description": "EmailNotificationERUnsatisfiedConditions",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5ce98a61-d00d-4759-bde2-7ea84f22db18",
+          "code": "TaxTranscriptsReview",
+          "description": "Tax Transcripts Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5ddb31bc-33fd-4b34-bb4d-7f3182947f3d",
+          "code": "QMPFReview",
+          "description": "QM PF Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5e059c17-3739-478b-a415-318f9572fea7",
+          "code": "WageEarnerReview",
+          "description": "Wage Earner Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5edbb124-69d7-499b-aee2-1f693828afc2",
+          "code": "CompleteLoanPackageVisible",
+          "description": "CompleteLoanPackageVisible",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5efedfd6-bbc5-4ce8-8e57-c2fbd863a739",
+          "code": "AutoULI",
+          "description": "AutoULI",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:37.870956+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "5f5fc60a-ce65-44f3-98c7-6040e9fd54b5",
+          "code": "AutoConditionsDelPAYHST15",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "6268c584-725f-45ac-8d33-54038aecd8df",
+          "code": "PrecisionTestingEscReview",
+          "description": "Precision Testing Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "64b90938-f638-43a8-be8c-1eb27f76127c",
+          "code": "DocCustodianEscReview",
+          "description": "Doc Custodian Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "655e8656-0bb4-4e13-b9d5-5bb456a2a62a",
+          "code": "AuditEscReview",
+          "description": "Audit Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "65be6d07-3119-4de3-85cf-119a0a3c5df0",
+          "code": "AUSReview",
+          "description": "AUS Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "66b71f54-badb-43c3-a3e7-2fa47c84cdad",
+          "code": "AutoConditionsDelAUS52",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "67641c71-06a8-4de2-8f75-8b6165c1e4cd",
+          "code": "FundingMgrEscReview",
+          "description": "Funding Mgr Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "6c4e192d-ce8f-4207-83ee-dc485b0997c8",
+          "code": "CreditRiskOCRForeclosureWarning",
+          "description": "Credit Risk OCR Foreclosure Warning",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "6dbf0a13-ba2d-4e8c-8552-e90737c86503",
+          "code": "ConditionsReview",
+          "description": "Conditions Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "6e22aa62-f233-4e36-aedf-68a74a5d23b4",
+          "code": "Self-EmployedReview",
+          "description": "Self-Employed Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "6f1448d3-c0c6-4c36-9f2e-6bd99580af3c",
+          "code": "203kReview",
+          "description": "203k Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "6fb0e122-10e0-48b4-9503-ea1ee3136014",
+          "code": "ERDocIndexingReview",
+          "description": "ER Doc Indexing Review",
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": "2021-02-17T22:00:23.7272+00:00",
+          "updatedBy": "e05782d0-aed2-4171-bf8a-3a3f956c7b37",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7269972d-fb7c-4e80-990b-892c823e40d9",
+          "code": "HighestandBestUseReview",
+          "description": "Highest and Best Use Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7612aa2b-2233-4969-a77a-d72c02a7b3aa",
+          "code": "CreditRiskOCRAppraisal",
+          "description": "Credit Risk OCR Appraisal",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "77fa533f-5107-4a7d-95ad-0e874a7de5e3",
+          "code": "TUReview",
+          "description": "TU Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7894e246-e6e7-4084-87ae-79d51b0803f3",
+          "code": "HPMLReview",
+          "description": "HPML Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7c6a9c55-df9c-444e-a74d-df80ca94f421",
+          "code": "ERIncome",
+          "description": "ER Income Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7ea9dcef-e7e9-4f74-9e55-13fbff1ecae5",
+          "code": "EligibilityPackageVisible",
+          "description": "EligibilityPackageVisible",
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:35.879688+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7f97ceae-3fff-4eb4-a413-96a1ca8b5834",
+          "code": "MERSReview",
+          "description": "MERS Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7fbe5bf8-3ca1-40ef-9989-939151b432c7",
+          "code": "EmailNotificationPurchased",
+          "description": "EmailNotificationPurchased",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7fd7ae63-2b4c-4437-8d7e-14b51a701870",
+          "code": "IQRReview",
+          "description": "IQR Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 21,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "7fed5c84-b113-4719-95f9-0ac2c7e89338",
+          "code": "DocsforPendingEligibilityConditionsInvisible",
+          "description": "DocsforPendingEligibilityConditionsInvisible",
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:35.589652+00:00",
+          "updatedBy": "2362f961-c8b2-4027-b145-fd6542e04963",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "80075d80-d548-4e9c-b0c4-ee270252fc1d",
+          "code": "PrintDocsConfirmationOfPurchaseEligibilityClearToClose",
+          "description": "PrintDocs Confirmation Of Purchase Eligibility (Clear To Close)",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8240ba58-24a6-4e79-a342-5dad83cb01d3",
+          "code": "WireImport",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8527bb48-f270-40a8-8e0d-79d0b461ba02",
+          "code": "ComplianceEscReview",
+          "description": "Compliance Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "879503e8-3d45-40f9-b944-75b537a16461",
+          "code": "AutoConditionsAddPAYHST15",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8a6447ba-ca22-4326-bb62-b9cc11267e48",
+          "code": "AutoConditionsAddNPURCH1",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8ac9cb90-be78-4ecf-960b-152d757b0a78",
+          "code": "LiabilityReview",
+          "description": "Liability Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8afb247f-0d13-40ed-a594-fa0c4d167434",
+          "code": "AutoConditionsAddNTITLE1",
+          "description": null,
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T22:00:04.593891+00:00",
+          "updatedBy": "a7737941-cdb3-4733-9aae-673cd4705f1e",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8d599591-7923-4dc6-9159-bda19e43c799",
+          "code": "DocSigningReview",
+          "description": "Doc Signing Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8d83e530-0dd5-449f-91af-2514166d19c1",
+          "code": "ComplianceMgrReview",
+          "description": "Compliance Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8de26bfd-ae0d-4dc5-bf08-ead7683fe95c",
+          "code": "ERAppraisalReview",
+          "description": "ER Appraisal Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "8eec174a-a5a2-4afa-84e9-77dbe69f2111",
+          "code": "AuditReview",
+          "description": "Audit Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 352,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "94cdb2a7-b5c5-4e3d-840f-72911a73c00a",
+          "code": "DocsforPendingEligibilityConditionsVisible",
+          "description": "DocsforPendingEligibilityConditionsVisible",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "96a146dc-4b48-4b71-8afb-5299d2358243",
+          "code": "EmailNotificationPendingPostPurchaseConditions",
+          "description": "EmailNotificationPendingPostPurchaseConditions",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "97651dcc-a44a-416d-947b-deee60856f4a",
+          "code": "EligibilityPackageInvisible",
+          "description": "EligibilityPackageInvisible",
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:42.256835+00:00",
+          "updatedBy": "2362f961-c8b2-4027-b145-fd6542e04963",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "986d9c36-68b7-4d34-940a-b02403c003bd",
+          "code": "EmailNotificationUnacceptableEligibilityDelivery",
+          "description": "EmailNotificationUnacceptableEligibilityDelivery",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "98e57c94-34c2-4d68-9290-67b9213a1e3a",
+          "code": "IncomeWaterfall",
+          "description": "Income Waterfall",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "9dd827bf-3810-48f2-8b8a-4e7c90952571",
+          "code": "EscalatedToManagement",
+          "description": "Escalated To Management",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "9f32ce18-a443-4f56-90d3-c2aafd009076",
+          "code": "AutoConditionsAddPAYHST75",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "9ffaaa5a-0f43-4bce-8d81-ae10517c080a",
+          "code": "AutoConditionsDelAGEAPP3",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "a077de89-0abd-49d8-bba4-ec298d22dfbf",
+          "code": "CollateralReview",
+          "description": "Collateral Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 216,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "a2bcfe3f-87b3-4828-b693-be79b241c136",
+          "code": "CorrRiskMgrReview",
+          "description": "Corr Risk Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "a35a28e1-bacb-46e1-a186-6861b208dbd3",
+          "code": "PennEDocs",
+          "description": "PennEDocs",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "a9a9a3d2-0d4b-4a0d-a77e-44ff83f40ae7",
+          "code": "INGReview",
+          "description": "ING Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "aa32291b-8c46-4749-a526-69efda1b2337",
+          "code": "ZoningComplianceReview",
+          "description": "Zoning Compliance Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ac578801-564c-4443-bf0b-c3752cc9967e",
+          "code": "ERConditionReview",
+          "description": "ER Condition Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ac8266f8-0179-4d72-ac20-531e955a93bd",
+          "code": "OrderAppraisal",
+          "description": "OrderAppraisal",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ae6acf2b-845c-41d3-b329-6ae54853065d",
+          "code": "EquifaxReview",
+          "description": "Equifax Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "aef2eff6-4c67-4d39-8505-ba150561b159",
+          "code": "DocsforPostPurchaseConditionsVisible",
+          "description": "DocsforPostPurchaseConditionsVisible",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "afafb3c8-93d5-4312-b1fd-c881b167527d",
+          "code": "WriteVariance",
+          "description": "Write Variance Data",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "afb63277-d322-460e-81f2-a286781181aa",
+          "code": "AutoConditionsAddAGEAPP3",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b3380eac-18e7-4438-b172-404d1554ce1f",
+          "code": "AutoConditionsAddNVA3",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b47bed70-b462-4658-966e-eb1f6b8d2c7a",
+          "code": "AutoConditionsAddHPML1",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b62ef9cb-20f4-45a8-835d-7fd1a3905d12",
+          "code": "AppraisedConditionReview",
+          "description": "Appraised Condition Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b6d065db-2760-42db-9a48-16bd100ddb85",
+          "code": "VVOEReview",
+          "description": "VVOE Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b740053c-cfbd-423a-8e18-afd9e12cec93",
+          "code": "CollateralEscReview",
+          "description": "Collateral Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b7500add-ba38-4776-9375-f46e786dc71d",
+          "code": "AutoConditionsDelCOND91",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "b8a168c4-7a4f-47fd-91cb-a71182514d07",
+          "code": "UnderwritingEscReview",
+          "description": "Underwriting Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bb4973f4-34bd-4de2-91df-1529a9d78232",
+          "code": "DBCollateral",
+          "description": "DBCollateral",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bb4b91a2-76d3-4a19-a257-e2beba568845",
+          "code": "ERTitleReview",
+          "description": "ER Title Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bbd7141f-db8a-4e4f-950a-be1089c4ef06",
+          "code": "CreditRiskOCRCreditReport",
+          "description": "Credit Risk OCR Credit Report",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bc3b8b08-9c91-4272-981d-1e4a3bfcb847",
+          "code": "LQA",
+          "description": "LQA",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bd9438eb-bd35-490c-89f8-e65aeaefce9b",
+          "code": "PreUnderwriterReview",
+          "description": "Pre Underwriter Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": true,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "be1f03fc-8087-4570-8275-32a453f21e86",
+          "code": "AutoCompliance",
+          "description": "Automated Compliance Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bed8a326-d768-4f49-8b1e-c0907817904e",
+          "code": "AutoConditionsDelAPPR3",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "bf8c198d-99ce-45df-80af-83d84bfafb36",
+          "code": "RentalIncomeReview",
+          "description": "Rental Income Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c0bf90f9-0112-484b-a228-e3b6c392eb89",
+          "code": "BaileeWireReview",
+          "description": "Bailee/Wire Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c15456cb-3998-4834-985a-8e695c30a724",
+          "code": "EmailNotificationERPendingConditions",
+          "description": "EmailNotificationERPendingConditions",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c216e80a-d62f-46b7-af63-615858625e3b",
+          "code": "AutoConditionsAddCOND101",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c2dd2bf1-90ce-45c0-a159-3d4923b81c50",
+          "code": "AutoConditionsAddLNG1",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c32f47d1-4fc2-4086-91dd-f2414543250a",
+          "code": "ProductionSupport",
+          "description": "Production Support",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c44494db-f57d-4fbb-9464-5fa917db64dc",
+          "code": "INGEscMgrReview",
+          "description": "ING Esc Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c5dd0ec0-ccae-42e7-9ea9-ae46aaa2715e",
+          "code": "AutoConditionsAddAGEAPP4",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c8ed78fa-b4fe-4ccb-862f-2fb527e89be9",
+          "code": "JumboVVOEReview",
+          "description": "Jumbo VVOE Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c925fe9e-5bf1-44c3-b41c-10539378df2b",
+          "code": "InternalAppraiserReview",
+          "description": "Internal Appraiser Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c926ded7-025c-407b-877d-442de4bfa42c",
+          "code": "AppraisalEscMgrReview",
+          "description": "Appraisal Esc Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "c9288e0b-b176-4448-8620-d0db16a4f651",
+          "code": "AutoConditionsAddAPPR3",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "cace5071-c373-4141-945f-825685b7167f",
+          "code": "EmailNotificationUnacceptableFileDelivery",
+          "description": "EmailNotificationUnacceptableFileDelivery",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "cb5e3c0b-9a7f-40c5-84b5-55a8deb285cb",
+          "code": "AutoConditionsDelAGEAPP2",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ce835976-67f9-459d-b02b-944e1b89335f",
+          "code": "LRCReview",
+          "description": "LRC Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "cefa3beb-9911-406a-b7b2-ec017ef02c4b",
+          "code": "EmailNotificationPendingConditionsCleared",
+          "description": "EmailNotificationPendingConditionsCleared",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "d088acb9-53da-4f4c-9aa2-3fbb5559e93b",
+          "code": "ProductionSupportEscReview",
+          "description": "Production Support Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "d43ba16d-b272-4227-834c-342f164ae963",
+          "code": "SingleLoanWaiverReview",
+          "description": "Single Loan Waiver Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "d69ce598-6df1-498c-a2d6-21951d5e4f6b",
+          "code": "AppraisalEscReview",
+          "description": "Appraisal Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "da5bd53d-c5ad-495a-b746-5aea13bccc4d",
+          "code": "EmailNotificationERNotEligibleForPurchase",
+          "description": "EmailNotificationERNotEligibleForPurchase",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "dd2f042a-3775-47ff-b436-013652ed817d",
+          "code": "SettlementVerification",
+          "description": "Settlement Verification",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "de08c013-61a8-4d86-84e1-0e3af22a637e",
+          "code": "AutoConditionsAddSEASON1",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "de664545-704d-49e1-ac0a-2bb9506e6574",
+          "code": "ComplianceReview",
+          "description": "Compliance Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "dfcc3660-0858-4c5e-8023-92072020e8cc",
+          "code": "AutoConditionsDelAGEAPP",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "e14fb8df-e658-46ec-ba13-d80100c5a34e",
+          "code": "SecondaryEscReview",
+          "description": "Secondary Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "e220bdec-cb08-47b6-ac1c-9c9d3dfdb63b",
+          "code": "AutoConditionsAddNCD1",
+          "description": null,
+          "startAt": null,
+          "status": "COMPLETED",
+          "isRequired": true,
+          "isReady": true,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T22:00:00.71982+00:00",
+          "updatedBy": "a7737941-cdb3-4733-9aae-673cd4705f1e",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "e5578159-761c-4856-875b-044568ec7ed1",
+          "code": "GNMASeasoning",
+          "description": "GNMA Seasoning",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "e7de4872-c224-47fb-a346-e43e0bb2b69e",
+          "code": "AutoConditionsDelCOND92",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ea7cd6b7-f791-46b8-b7c6-4571605dddf8",
+          "code": "IQREscMgrReview",
+          "description": "IQR Esc Mgr Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "eb831a8f-9edd-4b2c-9301-d4c4d2cd8c8e",
+          "code": "PrintDocsConfirmationOfPurchaseEligibilityPriorToClose",
+          "description": "PrintDocs Confirmation Of Purchase Eligibility (Prior To Close)",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "eb85e075-d646-4330-a0f9-4f2f766231d7",
+          "code": "AutoConditionsDelPAYHST45",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ec5dd324-ec00-409d-ac79-742c388d5bb5",
+          "code": "ERConditionUWReview",
+          "description": "ER Condition UW Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ec6fad69-8113-4337-b35e-cd2626435473",
+          "code": "AssetReview",
+          "description": "Asset Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ecfaf129-35d9-49e4-b2eb-c28f52f121eb",
+          "code": "PostPurchaseComplianceReview",
+          "description": "Post Purchase Compliance Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ee0db947-56bd-4f18-ae9e-3c1ee92956b4",
+          "code": "EarlyCheck",
+          "description": "EarlyCheck",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "eecb6dab-4aaa-413e-86d3-f8e5a1363d7b",
+          "code": "ClearCapitalAVM",
+          "description": "ClearCapitalAVM",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "efccc754-ae4d-49c3-ae77-b2abe1744e1a",
+          "code": "AutoConditionsDelAGEAPP4",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "f2a1334e-c340-4de4-b2f3-fce041cc9a4e",
+          "code": "VAGuarantyReview",
+          "description": "VA Guaranty Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "f39ef3af-f355-4e3c-9bd3-557db5d858e3",
+          "code": "ReceiptEscReview",
+          "description": "Receipt Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "f87951ae-e9bd-41c7-9478-982ead60de3e",
+          "code": "DocsforPendingConditionsVisible",
+          "description": "DocsforPendingConditionsVisible",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": true,
+          "updatedAt": "2021-02-17T21:59:33.675263+00:00",
+          "updatedBy": "44e97d25-fe24-42c0-9dc1-11c4f9563102",
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "f9ca21c5-5650-4caa-9f63-64e49382b88d",
+          "code": "USDAAnnualFeeReview",
+          "description": "USDA Annual Fee Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "fc2a22fb-a30d-44ed-a4ed-cc606d62d9db",
+          "code": "FundingEscReview",
+          "description": "Funding Esc Review",
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "ff03d460-1c3f-4e76-ad5c-66dfcc9865e0",
+          "code": "AutoConditionsAddNIRRRL1",
+          "description": null,
+          "startAt": null,
+          "status": "OPEN",
+          "isRequired": false,
+          "isReady": false,
+          "assignedAt": null,
+          "isAutomatable": false,
+          "updatedAt": null,
+          "updatedBy": null,
+          "taskCount": 0,
+          "userByAssignedTo": null,
+          "lists": {
+            "nodes": []
+          }
+        }
+      ]
+    }
+  }
+}
